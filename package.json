@@ -1,0 +1,8 @@
+{
+  "name": "nodebegginer",
+  "version": "0.0.1",
+  "description": "Code from node tutorial book",
+  "dependencies": {
+    "formidable": "^1.1.1"
+  }
+}
